@@ -1,2 +1,1 @@
 1.5
-# 0 or 1 is default in OculusDebugTool. Recommend using 1.3 and slowly working your way up the scale, best not to exceed over FOV value of 2.0
