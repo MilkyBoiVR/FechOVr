@@ -21,6 +21,7 @@ Tool so users can easily change their FOV upon launching the game!
 4. In the terminal, copy and paste the command ``` pip install -r requirements.txt ```
 5. Change FOV in ```FOV_Settings.txt```
 6. Run the python file
+7. Create a shortcut to launch Echo VR easier
 
 ## **HELP**
 
