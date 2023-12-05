@@ -11,7 +11,7 @@ Tool so users can easily change their FOV upon launching the game!
 
 ## **TUTORIAL**
 
-* Video coming soon!
+* https://youtu.be/Rpp-5NjxDJs
 
 ## **INSTRUCTIONS**
 
@@ -25,7 +25,7 @@ Tool so users can easily change their FOV upon launching the game!
 ## **HELP**
 
 If you need any support, please contact @milkyboivr on Discord
-* FechOVr Video Coming Soon!
+* FechOVr Installation https://youtu.be/Rpp-5NjxDJs
 * Python Installation Help - https://www.youtube.com/watch?v=brX8x-qkACs
 
 > [!IMPORTANT]
